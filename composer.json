@@ -1,0 +1,19 @@
+{
+  "name": "kubeecms/kcms-disable-notices",
+  "description": "Branding for KCMS sites.",
+  "keywords": ["kcms", "extension", "kcms-branding"],
+  "homepage": "https://github.com/KubeeCMS/kcms-disable-notices/",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "KubeeCMS"
+    }
+  ],
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": { "Kubeecms\\Kcms-Branding\\": "includes/" }
+  }
+}
