@@ -9,7 +9,7 @@
       "name": "KubeeCMS"
     }
   ],
-  "type": "wordpress-muplugin",
+  "type": "wordpress-plugin",
   "require": {
     "php": ">=8.0"
   }
